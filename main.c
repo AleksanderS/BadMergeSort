@@ -16,7 +16,7 @@ void printResults(unsigned long , unsigned long , char *, char *, int);
 #include <time.h>
 
 /*
- * 
+ * test commit
  */
 int main(int argc, char** argv) {
     if(argc != 3){
