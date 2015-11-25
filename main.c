@@ -1,4 +1,4 @@
-/* 
+/* 11/25/2015 I have no idea what this program does anymore
  * File:   main.c
  * Author: Alex
  *
